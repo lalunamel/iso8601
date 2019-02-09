@@ -1,4 +1,4 @@
-#! /usr/bin/env bash
+#! /bin/bash
 # 2
 # Commits the build dir
 
