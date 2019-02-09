@@ -4,7 +4,7 @@
 
 BUILD_DIR="./build"
 
-git checkout -b gh-pages
+git checkout gh-pages
 # Stage the public dir and stash it
 git add -f $BUILD_DIR
 git stash
