@@ -3,4 +3,5 @@
 # Builds junk
 
 echo '### Building Journal ###'
-npm run build production
+yarn install
+yarn run build production
